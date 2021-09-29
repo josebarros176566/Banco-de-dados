@@ -2,7 +2,7 @@
 
 refêrencia: <https://openreview.net/forum?id=KBbxt3JGn0Y>
 link: <https://openreview.net/pdf?id=KBbxt3JGn0Y>
-Dataset: <https://openreview.net/pdf?id=KBbxt3JGn0Y>
+Dataset: <https://once-for-auto-driving.github.io/index.html>
 Formato: imagens
 
 O campo de veículos auto-guiados evoluiu bastante nos últimos anos. Entretanto, as técnicas de deep learning usadas
